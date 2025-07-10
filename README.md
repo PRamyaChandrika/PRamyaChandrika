@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ramya Chandrika 👋
 
-<!--
-**PRamyaChandrika/PRamyaChandrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.Tech in Biomedical Engineering**  
+💡 Passionate about AI in Healthcare, Motion Capture, and Neurotechnology  
+🧠 Currently working on Gait Analysis using MoCap and EMG  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- Python | MATLAB | NumPy | Pandas | Scikit-Learn 
+- Signal Processing | Biomedical Data Analysis
+- Git & GitHub
+
+---
+
+### 📫 Connect With Me
+- ✉️ Email: `>>> parvatamramyachandrika@gmail.com <<<`
+- 🔗 LinkedIn: `>>> www.linkedin.com/in/parvatam-ramya-chandrika-257077213<<<`
